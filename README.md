@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhribar
 - 👀 I’m interested in Frontend Engineering.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Blockchain (smart contracts in Solidity).
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: a.rok.hribar@gmail.com
 
