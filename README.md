@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhribar
-- 👀 I’m interested in Frontend Engineering.
-- 🌱 I’m currently learning Solana Blockchain (smart contracts in Rust).
+- 👀 I’m experienced in Frontend Engineering (React + Router + Redux + Query + web3.js)
+- 🌱 I’m interested in Solana Blockchain (smart contracts in Rust + Anchor).
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: a.rok.hribar@gmail.com
 
